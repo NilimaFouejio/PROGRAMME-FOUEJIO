@@ -1,0 +1,1 @@
+C:\Users\Lenovo\Documents\tp-rust-module1-NilimaFouejio\tp-rust-module1\tp2-gestion-memoire\target\debug\gestion_memoire.exe: C:\Users\Lenovo\Documents\tp-rust-module1-NilimaFouejio\tp-rust-module1\tp2-gestion-memoire\src\main.rs
